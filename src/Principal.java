@@ -44,7 +44,7 @@ public class Principal extends javax.swing.JFrame {
             }
         });
 
-        jButton7.setText("JC - Motante");
+        jButton7.setText("JC - Montante");
         jButton7.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton7ActionPerformed(evt);
